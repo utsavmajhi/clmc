@@ -1,2 +1,4 @@
 # clmc
-Computer Learning With Ease
+Computer Learning With Ease(Interactive contents with free access)
+
+Utsav Majhi (Contributor)
