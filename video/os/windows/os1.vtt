@@ -1,0 +1,292 @@
+﻿1
+00:00:08,210 --> 00:00:14,549
+hello my name<font color="#E5E5E5"> is</font><font color="#CCCCCC"> Shawn today</font><font color="#E5E5E5"> I'm going</font>
+
+2
+00:00:12,510 --> 00:00:16,800
+to<font color="#E5E5E5"> explain the basics of an operating</font>
+
+3
+00:00:14,549 --> 00:00:19,770
+<font color="#E5E5E5">system</font><font color="#CCCCCC"> so that you have an understanding</font>
+
+4
+00:00:16,800 --> 00:00:21,919
+<font color="#E5E5E5">of its desired purpose we will be</font>
+
+5
+00:00:19,770 --> 00:00:24,300
+covering key concepts<font color="#E5E5E5"> and definitions</font>
+
+6
+00:00:21,919 --> 00:00:28,050
+<font color="#CCCCCC">whilst briefly touching upon</font><font color="#E5E5E5"> the</font>
+
+7
+00:00:24,300 --> 00:00:31,619
+essentials<font color="#E5E5E5"> of operating systems so what</font>
+
+8
+00:00:28,050 --> 00:00:34,410
+is an operating<font color="#CCCCCC"> system</font><font color="#E5E5E5"> in simple terms</font>
+
+9
+00:00:31,619 --> 00:00:37,140
+<font color="#E5E5E5">it is the chief program that manages</font><font color="#CCCCCC"> all</font>
+
+10
+00:00:34,410 --> 00:00:40,709
+of<font color="#CCCCCC"> the</font><font color="#E5E5E5"> hardware and software it has</font>
+
+11
+00:00:37,140 --> 00:00:43,769
+control of<font color="#E5E5E5"> every process file section of</font>
+
+12
+00:00:40,710 --> 00:00:46,680
+<font color="#E5E5E5">memory and device it is very important</font>
+
+13
+00:00:43,769 --> 00:00:49,440
+<font color="#E5E5E5">if it works as a middleman making sure</font>
+
+14
+00:00:46,680 --> 00:00:54,030
+both hardware and software<font color="#CCCCCC"> interact</font>
+
+15
+00:00:49,440 --> 00:00:56,430
+correctly<font color="#CCCCCC"> Windows Mac</font><font color="#E5E5E5"> OS</font><font color="#CCCCCC"> Linux and UNIX</font>
+
+16
+00:00:54,030 --> 00:00:59,699
+<font color="#E5E5E5">are the big operating system contenders</font>
+
+17
+00:00:56,430 --> 00:01:02,760
+<font color="#E5E5E5">and all have their</font><font color="#CCCCCC"> own advantages and or</font>
+
+18
+00:00:59,699 --> 00:01:05,820
+disadvantages but they are all<font color="#CCCCCC"> based</font><font color="#E5E5E5"> off</font>
+
+19
+00:01:02,760 --> 00:01:08,220
+the same concept<font color="#E5E5E5"> there are four</font>
+
+20
+00:01:05,820 --> 00:01:10,979
+essential managers of every operating
+
+21
+00:01:08,220 --> 00:01:14,580
+<font color="#E5E5E5">system</font><font color="#CCCCCC"> and they all work together like a</font>
+
+22
+00:01:10,979 --> 00:01:17,039
+team<font color="#E5E5E5"> to get jobs completed the operating</font>
+
+23
+00:01:14,580 --> 00:01:20,310
+<font color="#E5E5E5">system works</font><font color="#CCCCCC"> as their boss</font><font color="#E5E5E5"> and to make</font>
+
+24
+00:01:17,040 --> 00:01:22,680
+<font color="#CCCCCC">sure they are all</font><font color="#E5E5E5"> working in harmony the</font>
+
+25
+00:01:20,310 --> 00:01:25,740
+memory manager is in<font color="#CCCCCC"> charge of the main</font>
+
+26
+00:01:22,680 --> 00:01:28,680
+memory<font color="#CCCCCC"> it scans every</font><font color="#E5E5E5"> request for memory</font>
+
+27
+00:01:25,740 --> 00:01:31,140
+space and checks if it<font color="#E5E5E5"> is</font><font color="#CCCCCC"> valid</font><font color="#E5E5E5"> it</font>
+
+28
+00:01:28,680 --> 00:01:33,990
+allows allocation of memory<font color="#E5E5E5"> spaces that</font>
+
+29
+00:01:31,140 --> 00:01:36,960
+are not<font color="#E5E5E5"> taken up already memory spaces</font>
+
+30
+00:01:33,990 --> 00:01:40,229
+<font color="#E5E5E5">may need to be</font><font color="#CCCCCC"> D allocated to free up</font>
+
+31
+00:01:36,960 --> 00:01:42,750
+space for<font color="#CCCCCC"> other requests the process</font>
+
+32
+00:01:40,230 --> 00:01:44,909
+manager decides how to allocate<font color="#E5E5E5"> the</font>
+
+33
+00:01:42,750 --> 00:01:48,090
+brain of the<font color="#E5E5E5"> computer known as the</font>
+
+34
+00:01:44,909 --> 00:01:50,430
+central processing unit it<font color="#E5E5E5"> is necessary</font>
+
+35
+00:01:48,090 --> 00:01:53,610
+that the<font color="#E5E5E5"> process manager keeps track of</font>
+
+36
+00:01:50,430 --> 00:01:55,950
+<font color="#E5E5E5">the status of each process it has to</font>
+
+37
+00:01:53,610 --> 00:01:58,560
+handle jobs<font color="#E5E5E5"> as they enter</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> system and</font>
+
+38
+00:01:55,950 --> 00:02:01,640
+manage<font color="#E5E5E5"> each process that is associated</font>
+
+39
+00:01:58,560 --> 00:02:04,560
+<font color="#E5E5E5">with those jobs</font><font color="#CCCCCC"> the device manager</font>
+
+40
+00:02:01,640 --> 00:02:07,560
+<font color="#CCCCCC">monitors every device</font><font color="#E5E5E5"> channel and</font>
+
+41
+00:02:04,560 --> 00:02:09,929
+control unit<font color="#E5E5E5"> it has to choose the</font><font color="#CCCCCC"> most</font>
+
+42
+00:02:07,560 --> 00:02:12,180
+efficient way<font color="#CCCCCC"> to allocate</font><font color="#E5E5E5"> all</font><font color="#CCCCCC"> of the</font>
+
+43
+00:02:09,929 --> 00:02:15,150
+system devices<font color="#E5E5E5"> that are connected to the</font>
+
+44
+00:02:12,180 --> 00:02:17,790
+computer<font color="#E5E5E5"> USB sticks printers and</font>
+
+45
+00:02:15,150 --> 00:02:21,330
+external hard<font color="#E5E5E5"> drives are examples of</font>
+
+46
+00:02:17,790 --> 00:02:23,760
+this the file manager<font color="#E5E5E5"> checks every</font>
+
+47
+00:02:21,330 --> 00:02:27,360
+<font color="#CCCCCC">the file</font><font color="#E5E5E5"> that is on the system this</font>
+
+48
+00:02:23,760 --> 00:02:29,399
+means<font color="#E5E5E5"> data files</font><font color="#CCCCCC"> Program Files</font><font color="#E5E5E5"> compilers</font>
+
+49
+00:02:27,360 --> 00:02:31,860
+<font color="#E5E5E5">and installed applications</font>
+
+50
+00:02:29,400 --> 00:02:35,370
+it sets permissions so that<font color="#E5E5E5"> certain</font>
+
+51
+00:02:31,860 --> 00:02:37,500
+users can only see certain files<font color="#E5E5E5"> so when</font>
+
+52
+00:02:35,370 --> 00:02:38,730
+you log<font color="#E5E5E5"> in to</font><font color="#CCCCCC"> your guest account you</font>
+
+53
+00:02:37,500 --> 00:02:41,340
+cannot browse through the
+
+54
+00:02:38,730 --> 00:02:44,310
+<font color="#CCCCCC">administrator's files</font><font color="#E5E5E5"> as you do not have</font>
+
+55
+00:02:41,340 --> 00:02:46,800
+the permission<font color="#CCCCCC"> to do so another manager</font>
+
+56
+00:02:44,310 --> 00:02:49,260
+worth mentioning is<font color="#CCCCCC"> the network manager</font>
+
+57
+00:02:46,800 --> 00:02:52,470
+this provides a way<font color="#CCCCCC"> for users</font><font color="#E5E5E5"> to share</font>
+
+58
+00:02:49,260 --> 00:02:54,840
+hardware and software resources<font color="#CCCCCC"> while</font>
+
+59
+00:02:52,470 --> 00:02:58,380
+also<font color="#E5E5E5"> controlling the users access</font><font color="#CCCCCC"> to</font>
+
+60
+00:02:54,840 --> 00:03:01,320
+them so we now understand how<font color="#E5E5E5"> it works</font>
+
+61
+00:02:58,380 --> 00:03:04,380
+<font color="#E5E5E5">under the</font><font color="#CCCCCC"> hood so how do we</font><font color="#E5E5E5"> the user</font>
+
+62
+00:03:01,320 --> 00:03:07,769
+interact with the operating<font color="#CCCCCC"> system</font><font color="#E5E5E5"> we</font>
+
+63
+00:03:04,380 --> 00:03:10,290
+rely on the use<font color="#CCCCCC"> of a user interface</font><font color="#E5E5E5"> this</font>
+
+64
+00:03:07,770 --> 00:03:12,510
+gives us a visual<font color="#E5E5E5"> understanding</font><font color="#CCCCCC"> of what</font>
+
+65
+00:03:10,290 --> 00:03:15,179
+we are<font color="#E5E5E5"> trying</font><font color="#CCCCCC"> to do when we interact</font>
+
+66
+00:03:12,510 --> 00:03:17,790
+<font color="#E5E5E5">with the</font><font color="#CCCCCC"> system</font><font color="#E5E5E5"> so when you click and</font>
+
+67
+00:03:15,180 --> 00:03:20,580
+<font color="#CCCCCC">hold a file to move it into a folder</font>
+
+68
+00:03:17,790 --> 00:03:23,010
+<font color="#E5E5E5">you're making the managers work to carry</font>
+
+69
+00:03:20,580 --> 00:03:25,500
+out the<font color="#E5E5E5"> request in the next few</font>
+
+70
+00:03:23,010 --> 00:03:27,720
+tutorials<font color="#E5E5E5"> we</font><font color="#CCCCCC"> will be</font><font color="#E5E5E5"> digging deeper into</font>
+
+71
+00:03:25,500 --> 00:03:30,959
+managers and looking at how they work
+
+72
+00:03:27,720 --> 00:03:35,870
+together<font color="#E5E5E5"> this has been Shawn</font><font color="#CCCCCC"> and do not</font>
+
+73
+00:03:30,959 --> 00:03:35,870
+<font color="#E5E5E5">forget to</font><font color="#CCCCCC"> subscribe to the SM KS channel</font>
+
