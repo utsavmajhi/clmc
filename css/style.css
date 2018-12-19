@@ -2057,5 +2057,56 @@ form label {
   font-size: 22px;
 }
 
+.nav1 h7{
+  font-family:'Sofia';
+  color:#FFD58B;
+  font-size: 35px;
+  font-style: italic;
+  padding-left: 25px;
 
+}
+.nav1 ui{
+  position: fixed;
+  float:left;
+  width:20.5%;
+  height:700px;
+  font-style: italic;
+  background-image:url("../images/s1.jpg");
+  font-size:20px;
+
+}
+.list1:hover{
+  color: #BBFD80;
+}
+.container1{
+  padding-top: 73px;
+
+}
+.list2{
+  padding-left: 22px;
+}
+.sec{
+  float:right;
+  padding-left: 240px;
+  padding-top: 80px;
+  width:79.5%;
+}
+/* Clear floats after the columns */
+.container1:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.sec h8{
+  font-size: 40px;
+  font-family: 'Courgette';
+  font-weight: bold;
+  font-style: italic;
+  color:#50064A;
+}
+.seg{
+  font-size: 13px;
+  padding-top: 0px;
+
+}
 /*# sourceMappingURL=style.css.map */
