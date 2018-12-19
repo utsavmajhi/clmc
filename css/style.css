@@ -2056,6 +2056,30 @@ form label {
   color: #FF5126;
   font-size: 22px;
 }
+.container1{
+  padding-left: 25px;
+  height: 100%;
+  width: 20.5%;
+  background-image:url("../images/s1.jpg");
+  border:1px solid #194506;
+  box-sizing: border-box;
+}
+.table1 h7{
+  font-family:'Sofia';
+  color:#FFD58B;
+  font-size: 35px;
+  font-style: italic;
+  padding-left: 22px;
+
+}
+.table1{
+  padding-top: 90px;
+  font-style: italic;
+  font-size:20px;
+}
+.table1 a:hover{
+  color: #BBFD80;
+}
 
 .nav1 h7{
   font-family:'Sofia';
